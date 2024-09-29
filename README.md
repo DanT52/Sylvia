@@ -2,7 +2,7 @@
 ## Game Demo Video
 [![Sylvia Game Demo Video](https://img.youtube.com/vi/naX0LrLYVr0/0.jpg)](https://www.youtube.com/watch?v=naX0LrLYVr0)
 
-##Note
+## Note
 Much of the games features were unfinished, the implemented part of the game was the main battle scene and the basic abilities.
 
 ## Game Description
