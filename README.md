@@ -1,7 +1,10 @@
 # *Sylvia: Untold Tails* - Game Documentation
+## Game Demo
+[![Sylvia Game Demo Video](https://img.youtube.com/vi/naX0LrLYVr0/0.jpg)](https://www.youtube.com/watch?v=naX0LrLYVr0)
+
 
 ## Game Description
-Sylvia is a strategic card-based fantasy roguelike which combines deckbuilding, character customization, and choose your own adventure elements.  Guide your cartoon animal character through dungeons and towns to defeat the Rhinoverlord.  Battle enemies on a grid by placing your party in strategic locations and using their abilities to outwit or overpower the enemy.  Choose the path you wish to tread, whom you choose to help, and watch your character grow into a sentinel of kindness... or a complete monster.  The choice is yours.
+Sylvia is a strategic turn-based fantasy roguelike which combines deckbuilding, character customization, and choose your own adventure elements.  Guide your cartoon animal character through dungeons and towns to defeat the Rhinoverlord.  Battle enemies on a grid by placing your party in strategic locations and using their abilities to outwit or overpower the enemy.  Choose the path you wish to tread, whom you choose to help, and watch your character grow into a sentinel of kindness... or a complete monster.  The choice is yours.
 
 ## How to Run
 1. **Clone the repository:** 'git clone https://github.com/Endermandels/Sylvia.git'
